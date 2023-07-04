@@ -20,4 +20,4 @@ This repository contains all the submitted files of the various tasks assigned b
 - Practical skills gained: `Python` `SQL` `Data Munging`
 ---
 #### Certificate of Completion
-![Cert](./Aman_Kshetri_Walmart_USA_SWE.jpg)
+![Cert](./Aman_Kshetri_Walmart_USA_SWE.pdf)
