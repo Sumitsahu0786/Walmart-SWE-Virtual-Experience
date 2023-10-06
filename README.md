@@ -19,5 +19,4 @@ This repository contains all the submitted files of the various tasks assigned b
     Populate a database with a large quantity of data in disparate formats.
 - Practical skills gained: `Python` `SQL` `Data Munging`
 ---
-#### Certificate of Completion
-![Cert](./Aman_Kshetri_Walmart_USA_SWE.jpg)
+
